@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "RA5M8S58U3.com.swapp1990.vacationphotos",
+        "paths": ["/share/*"]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "RA5M8S58U3.com.swapp1990.vacationphotos.Clip"
+    ]
+  }
+}
